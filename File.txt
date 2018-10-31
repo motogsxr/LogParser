@@ -1,0 +1,4 @@
+test
+test for string
+not found
+this is test file
